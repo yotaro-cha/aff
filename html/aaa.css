@@ -1,0 +1,13 @@
+/* Scss Document */
+h2 {
+  background-color: #76DAFF;
+  padding: 0.5em;
+  color: #fff; }
+
+h3 {
+  border-bottom: 3px solid #76DAFF;
+  padding: 0.5em; }
+
+h4 {
+  border-left: 5px solid #76DAFF;
+  padding-left: 0.7em; }
